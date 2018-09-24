@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="avatarPreviewSize">167dp</dimen>
+
+    <integer name="numberOfColumns">4</integer>
+</resources>

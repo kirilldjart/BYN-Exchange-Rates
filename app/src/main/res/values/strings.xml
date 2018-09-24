@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BYN Exchange Rate</string>
+    <string name="particleON">за</string>
+    <string name="unit">ед.</string>
+</resources>
